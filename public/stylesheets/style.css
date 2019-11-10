@@ -1,0 +1,38 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 1280px;
+  text-align: center;
+}
+
+.title > span {
+  font-size: 20px;
+  font-weight: blod;
+}
+
+.header-bar {
+  text-align: left;
+  width: 900px;
+  display: inline-block;
+}
+
+.header-bar .logo {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.header-bar ul {
+  display: inline-block;
+}
+
+.header-bar ul li {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.mt10 {margin-top: 10px;}
+.mb10 {margin-bottom: 10px;}
