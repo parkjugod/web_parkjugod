@@ -6,9 +6,7 @@ body {
 }
 
 .container {
-  background-color: blanchedalmond;
-  display: inline-block;
-  width: 1280px;
+  text-align: center;
 }
 
 .title > span {
@@ -34,6 +32,26 @@ body {
 .header-bar ul li {
   display: inline-block;
   margin-left: 30px;
+  font-weight: bold;
+}
+
+.jh-nav-bar {
+  background-color: dimgrey;
+}
+
+.jh-nav-bar ul {
+  display: inline-block;
+}
+
+.jh-nav-bar ul li {
+  display: inline-block;
+  width: 100px;
+  margin-left: 30px;
+}
+
+.jh-nav-bar ul li a {
+  color: white;
+  text-decoration: none;
 }
 
 .mt10 {margin-top: 10px;}
